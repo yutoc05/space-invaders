@@ -15,8 +15,4 @@ Welcome to the Greenfoot Space Invaders game! This project is a classic arcade-s
 
 ## Setup and Installation
 1. **Greenfoot**: (Download it from the [Greenfoot site](https://www.greenfoot.org/download))
-2. **Clone the Repository**: Use
-```
-git clone https://github.com/yutoc05/Greenfoot-Space-Invaders.git
-```
-to clone this repository to your local machine.
+2. **Clone the Repository**: Use ```git clone https://github.com/yutoc05/Greenfoot-Space-Invaders.git``` to clone this repository to your local machine.
