@@ -1,6 +1,8 @@
-# Greenfoot Space Invaders
+# Space Invaders
 ## Overview
-Welcome to the Greenfoot Space Invaders game! This project is a classic arcade-style game implemented in Java using the Greenfoot framework. Players control a spaceship and must defend against waves of alien invaders.
+Welcome to the Space Invaders game! ;)
+
+This project is a classic arcade-style game implemented in Java using the Greenfoot IDE. Players control a spaceship and must defend against waves of alien invaders.
 
 ## User Interface
 ![Screenshot of the the Space Invaders game UI within the Greenfoot IDE.](https://github.com/yutoc05/Space-Invaders/assets/70075066/8aa1d830-24f9-4454-b07e-f9b4128c1b8c)
